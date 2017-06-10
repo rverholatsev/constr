@@ -1,0 +1,177 @@
+[
+	{
+		"idModel": 0,
+		"name": "Красная",
+		"img": "images/rose_red.png",
+		"type": "Цветы",
+		"group": "Роза",
+		"positionType": "unit",
+		"src": "models/rose_red.dae"
+	},
+	{
+		"idModel": 1,
+		"name": "Розовая",
+		"img": "images/rose_pink.png",
+		"type": "Цветы",
+		"group": "Роза",
+		"positionType": "unit",
+		"src": "models/rose_pink.dae"
+	},
+	{
+		"idModel": 2,
+		"name": "Белая",
+		"img": "images/rose_white.png",
+		"type": "Цветы",
+		"group": "Роза",
+		"positionType": "unit",
+		"src": "models/rose_white.dae"
+	},
+	{
+		"idModel": 3,
+		"name": "Чайная",
+		"img": "images/rose_tea.png",
+		"type": "Цветы",
+		"group": "Роза",
+		"positionType": "unit",
+		"src": "models/rose_tea.dae"
+	},
+	{
+		"idModel": 10,
+		"name": "Белая",
+		"img": "images/liliya_white.png",
+		"type": "Цветы",
+		"group": "Лилия",
+		"positionType": "unit",
+		"src": "models/liliya_white.dae"
+	},
+	{
+		"idModel": 11,
+		"name": "Оранжевая",
+		"img": "images/liliya_orange.png",
+		"type": "Цветы",
+		"group": "Лилия",
+		"positionType": "unit",
+		"src": "models/liliya_orange.dae"
+	},
+	{
+		"idModel": 20,
+		"name": "Красная",
+		"img": "images/gerbera_red.png",
+		"type": "Цветы",
+		"group": "Гербера",
+		"positionType": "unit",
+		"src": "models/gerbera_red.dae"
+	},
+	{
+		"idModel": 21,
+		"name": "Желтая",
+		"img": "images/gerbera_yellow.png",
+		"type": "Цветы",
+		"group": "Гербера",
+		"positionType": "unit",
+		"src": "models/gerbera_yellow.dae"
+	},
+	{
+		"idModel": 31,
+		"name": "Ромашка",
+		"img": "images/romashka.png",
+		"type": "Цветы",
+		"group": null,
+		"positionType": "unit",
+		"src": "models/romashka.dae"
+	},
+	{
+		"idModel": 100,
+		"name": "База",
+		"img": "images/bergras.png",
+		"type": "Зелень",
+		"group": "Берграс",
+		"positionType": "base",
+		"numberUnits": 7,
+		"src": "models/bergras.dae"
+	},
+	{
+		"idModel": 101,
+		"name": "Каркас",
+		"img": "images/bergras.png",
+		"type": "Зелень",
+		"group": "Берграс",
+		"positionType": "frame",
+		"numberUnits": 9,
+		"src": "models/bergras.dae"
+	},
+	{
+		"idModel": 102,
+		"name": "Одиночный",
+		"img": "images/bergras.png",
+		"type": "Зелень",
+		"group": "Берграс",
+		"positionType": "unit",
+		"src": "models/bergras.dae"
+	},
+	{
+		"idModel": 110,
+		"name": "База",
+		"img": "images/ruskus.png",
+		"type": "Зелень",
+		"group": "Рускус",
+		"positionType": "base",
+		"numberUnits": 5,
+		"src": "models/ruskus.dae"
+	},
+	{
+		"idModel": 111,
+		"name": "Каркас",
+		"img": "images/ruskus.png",
+		"type": "Зелень",
+		"group": "Рускус",
+		"positionType": "frame",
+		"numberUnits": 6,
+		"src": "models/ruskus.dae"
+	},
+	{
+		"idModel": 112,
+		"name": "Одиночный",
+		"img": "images/ruskus.png",
+		"type": "Зелень",
+		"group": "Рускус",
+		"positionType": "unit",
+		"src": "models/ruskus.dae"
+	},
+	{
+		"idModel": 200,
+		"name": "Красный",
+		"img": "images/bant_red.png",
+		"type": "Декор",
+		"group": "Бант",
+		"positionType": "staticUnit",
+		"src": "models/bant_red.dae"
+	},
+	{
+		"idModel": 201,
+		"name": "Зеленый",
+		"img": "images/bant_red.png",
+		"type": "Декор",
+		"group": "Бант",
+		"positionType": "staticUnit",
+		"src": "models/bant_green.dae"
+	},
+	{
+		"idModel": 202,
+		"name": "Синий",
+		"img": "images/bant_red.png",
+		"type": "Декор",
+		"group": "Бант",
+		"positionType": "staticUnit",
+		"src": "models/bant_blue.dae"
+	},
+	{
+		"idModel": 203,
+		"name": "Желтый",
+		"img": "images/bant_red.png",
+		"type": "Декор",
+		"group": "Бант",
+		"positionType": "staticUnit",
+		"src": "models/bant_yellow.dae"
+	}
+]
